@@ -9,5 +9,9 @@ int main() {
     return 0;
 }
 void func() {
+<<<<<<< HEAD
     cout << "Main";
+=======
+    cout << "BRANCH DUNG31";
+>>>>>>> Dung31
 }
